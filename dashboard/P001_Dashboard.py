@@ -219,7 +219,7 @@ if __name__ == '__main__':
     ## Data Extraction ## 
 
     # Get Data
-    path = '../data/selling_list.csv'
+    path = 'data/selling_list.csv'
     url = 'https://opendata.arcgis.com/datasets/83fc2e72903343aabff6de8cb445b81c_2.geojson'
 
     data = get_data(path)
