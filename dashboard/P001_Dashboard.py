@@ -12,6 +12,7 @@ st.set_page_config(layout = 'wide')
 @st.cache_data
 def get_data( path ):
     data = pd.read_csv(path)
+    print(data)
     data = data.loc[:, ~data.columns.str.contains('^Unnamed')]
 
     return data
@@ -223,6 +224,7 @@ if __name__ == '__main__':
     url = 'https://opendata.arcgis.com/datasets/83fc2e72903343aabff6de8cb445b81c_2.geojson'
 
     data = get_data(path)
+    print(data)
     geofile = get_geofile(url)
  
     ## Transformation ##
