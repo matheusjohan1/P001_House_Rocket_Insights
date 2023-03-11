@@ -219,7 +219,7 @@ if __name__ == '__main__':
     ## Data Extraction ## 
 
     # Get Data
-    path = 'C:/Users/mathe/Documents/repos/python_zero_ao_ds/P001_House_Rocket_Insights/datasets/selling_list.csv'
+    path = '../datasets/selling_list.csv'
     url = 'https://opendata.arcgis.com/datasets/83fc2e72903343aabff6de8cb445b81c_2.geojson'
 
     data = get_data(path)
