@@ -5,7 +5,7 @@
 ## Summary
 * [1. Business Problem](#1.-Business-Problem)
 * [2. Business Assumptions](#2.-Business-Assumptions)
-* [Setup](#setup)
+* [3. Solution Strategy](#3.-Solution-Strategy)
 
 ## 1. Business Problem
 
@@ -32,5 +32,7 @@ Thus, BI team suggested that an online [dashboard](https://p001-house-rocket-ins
   * Winter runs from December 1 to February 28 (February 29 in a leap year).
 * The decisions were based on value invested and total profit. The profit margin was based on size and season, but condition, grade, location are also good indicators
 of the best properties.
+
+## 3. Solution Strategy
 
 
