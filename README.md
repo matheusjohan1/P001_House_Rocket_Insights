@@ -1,7 +1,7 @@
 # P001_House_Rocket_Insights
 
 <img src="images/seattle_skyline.jpg" width="1000">
-*Seattle Skyline.*
+_Seattle Skyline._
 
 ## Summary
 * [1. Business Problem](#1.-Business-Problem)
@@ -24,7 +24,7 @@ Thus, BI team suggested that an online [dashboard](https://p001-house-rocket-ins
 * Total profit.
 
 <img src="images/dashboard1.jpg" width="1000">
-*Dashboard header view.*
+_Dashboard header view._
 
 ## 2. Business Assumptions
 
