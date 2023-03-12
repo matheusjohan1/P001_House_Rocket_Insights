@@ -22,6 +22,8 @@ Thus, BI team suggested that an online [dashboard](https://p001-house-rocket-ins
 * Total revenue;
 * Total profit.
 
+<img src="images/dashboard1.jpg" width="1000">
+
 ## 2. Business Assumptions
 
 * In total, there were 21,613 properties available on the initial portfolio;
