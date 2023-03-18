@@ -83,4 +83,5 @@ The business team should analyse and decide which real estate they will invest.
 * Dataset available on [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction);
 * Data columns description on [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/discussion/207885) discussion;
 * This project is part of [Comunidade DS](https://comunidadeds.com/).
+* Seattle Skyline by [Jerry Meaden](https://www.flickr.com/photos/sworldguy/15248037137) 
 
